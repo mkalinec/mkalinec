@@ -1,3 +1,1 @@
-- Hi, I'm mkalinec👋!
-- I’m a computer science student with a strong interest in programming 👨‍💻🖥
-- My most favorite programming language is C++.
+Hi, I hope AI won't replace me
